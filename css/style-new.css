@@ -428,7 +428,7 @@ ul.tick-list {
 .main_lp_div.faq_accordation_section .accordion__item ul{padding-inline-start: 20px;}
 @media screen and (max-width:600px){
 .main_lp_div.faq_accordation_section{margin-top:30px;margin-bottom:30px}
-.main_lp_div.faq_accordation_section .accordion__header{padding:15px 35px 15px 25px;font-weight:600;cursor:pointer;position:relative;font-size:16px !important}
+.main_lp_div.faq_accordation_section .accordion__header{padding:15px 45px 15px 25px;font-weight:600;cursor:pointer;position:relative;font-size:16px !important}
 }
 /*==========================================*/
 /* Footer css*/
